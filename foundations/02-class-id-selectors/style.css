@@ -2,3 +2,18 @@
     background-color: #EB3E37;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+.big--font,
+#two {
+    font-size: 24px;
+}
+
+#one {
+    color: rgb(72, 69, 245);
+    font-size: 36px;
+}
+
+#two {
+    background-color: hsla(123, 72%, 59%, 0.849);
+    font-weight: bold;
+}
